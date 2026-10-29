@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://pognon.app/</loc><xhtml:link rel="alternate" hreflang="fr" href="https://pognon.app/"/><xhtml:link rel="alternate" hreflang="en" href="https://pognon.app/en/"/></url>
+  <url><loc>https://pognon.app/en/</loc><xhtml:link rel="alternate" hreflang="fr" href="https://pognon.app/"/><xhtml:link rel="alternate" hreflang="en" href="https://pognon.app/en/"/></url>
+  <url><loc>https://pognon.app/confidentialite.html</loc><xhtml:link rel="alternate" hreflang="fr" href="https://pognon.app/confidentialite.html"/><xhtml:link rel="alternate" hreflang="en" href="https://pognon.app/en/privacy.html"/></url>
+  <url><loc>https://pognon.app/en/privacy.html</loc><xhtml:link rel="alternate" hreflang="fr" href="https://pognon.app/confidentialite.html"/><xhtml:link rel="alternate" hreflang="en" href="https://pognon.app/en/privacy.html"/></url>
+</urlset>
